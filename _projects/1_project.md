@@ -1,81 +1,12 @@
 ---
 layout: page
-title: project 1
+title: Imputation Assisted Randomization Test
 description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
+importance: 3
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: heng2023designbased
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Design-based causal inference is one of the most widely used frameworks for testing causal null hypotheses or inferring about causal parameters from experimental or observational data. The most significant merit of design-based causal inference is that its statistical validity only comes from the study design (e.g., randomization design) and does not require assuming any outcome-generating distributions or models. Although immune to model misspecification, design-based causal inference can still suffer from other data challenges, among which missingness in outcomes is a significant one. However, compared with model-based causal inference, outcome missingness in design-based causal inference is much less studied, largely due to the challenge that design-based causal inference does not assume any outcome distributions/models and, therefore, cannot directly adopt any existing model-based approaches for missing data. To fill this gap, we systematically study the missing outcomes problem in design-based causal inference. First, we use the potential outcomes framework to clarify the minimal assumption (concerning the outcome missingness mechanism) needed for conducting finite-population-exact randomization tests for the null effect (i.e., Fisher's sharp null) and that needed for constructing finite-population-exact confidence sets with missing outcomes. Second, we propose a general framework called ``imputation and re-imputation" for conducting finite-population-exact randomization tests in design-based causal studies with missing outcomes. Our framework can incorporate any existing outcome imputation algorithms and meanwhile guarantee finite-population-exact type-I error rate control. Third, we extend our framework to conduct covariate adjustment in an exact randomization test with missing outcomes and to construct finite-population-exact confidence sets with missing outcomes.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+[Source Code](https://github.com/Causal-I-ART)
