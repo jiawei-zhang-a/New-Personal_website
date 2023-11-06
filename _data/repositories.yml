@@ -4,7 +4,7 @@ github_users:
 github_repos:
   - scikit-learn/scikit-learn
   - pandas-dev/pandas
-  - Causal-I-ART/I-ART
+  - Imputation-Assisted-Randomization-Tests/py-I-ART
   - jiawei-zhang-a/SCI
   - jiawei-zhang-a/Course-management-system-2.0
   - jiawei-zhang-a/Course-Management-System
