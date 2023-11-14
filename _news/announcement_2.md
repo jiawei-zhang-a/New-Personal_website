@@ -5,12 +5,12 @@ inline: true
 related_posts: false
 ---
 
-# Launch of I-ART Python and R Packages!
+# Launch of iArt Python and R Packages!
 
 🎉 **Announcement** 🎉  
-I'm excited to share the launch of our latest Python and R package: **Py-I-ART** and **IART**. These two packages are dedicated to Imputation-Assisted Randomization Tests
+I'm excited to share the launch of our latest Python and R package: **Python-iArt** and **iArt**. These two packages are dedicated to Imputation-Assisted Randomization Tests
 
 🔍 **Explore the Tutorial**  
-Dive into the world of I-ART with our comprehensive tutorial. Get started today and discover how Py-I-ART and IART can help your research: [I-ART Tutorial](https://i-art.readthedocs.io/en/latest/).
+Dive into the world of iArt with our comprehensive tutorial. Get started today and discover how ython-iArt and iArt can help your research: [iArt Tutorial](https://i-art.readthedocs.io/en/latest/).
 
 ---
