@@ -2,6 +2,7 @@
 layout: page
 title: Observational Study 
 description: Causal Effect Estimation of Bariatric Surgery
+img: assets/img/1.png
 importance: 3
 category: work
 ---

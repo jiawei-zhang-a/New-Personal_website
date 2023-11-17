@@ -2,7 +2,8 @@
 layout: page
 title: Imputation Assisted Randomization Test
 description: a project with a background image
-importance: 3
+importance: 1
+img: assets/img/12.jpg
 category: work
 related_publications: heng2023designbased
 ---
