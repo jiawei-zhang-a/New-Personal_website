@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Imputation Assisted Randomization Test
+title: iArt
 description: a project with a background image
 importance: 1
 img: assets/img/12.jpg
