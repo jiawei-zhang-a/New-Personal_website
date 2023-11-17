@@ -2,7 +2,7 @@
 layout: page
 title: Pendulum
 description: Pendulum is an innovative visualization 3D calculator
-img: https://ibb.co/M7RS0x5
+img: https://github.com/Pendulum-Calculator/Pendulum-beta/blob/main/images/2023-09-01.png
 importance: 3
 category: work
 ---
