@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-# New Publication!
+# New Preprint!
 As a student deeply interested in statistical research, I am both humbled and excited to share that our paper, "Design-Based Causal Inference with Missing Outcomes: Missingness Mechanisms, Imputation-Assisted Randomization Tests, and Covariate Adjustment," has been published.
 
 Having the opportunity to contribute as a co-first author alongside Professor Siyu Heng and under the guidance of Professor Yang Feng has been a truly invaluable experience.
