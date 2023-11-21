@@ -11,7 +11,6 @@ As a mentor in PQAR(Pathways into Quantitative Aging Research), I provided mento
 
 Using a matched observational study to determine if advanced maternal age has a causal effect on birth outcomes.
 
-<iframe src="assets/pdf/PQAR_Poster.pdf" width="700" height="388" style="border: none;">Your browser does not support PDFs. Download the PDF to view it: <a href="assets/pdf/PQAR_Poster.pdf">Download PDF</a>.</iframe>
+<iframe src="https://jiawei-zhang.top/assets/pdf/PQAR_Poster.pdf" width="700" height="388" style="border: none;">Your browser does not support PDFs. Download the PDF to view it: <a href="https://jiawei-zhang.top/assets/pdf/PQAR_Poster.pdf">Download PDF</a>.</iframe>
 
 
-[poster](https://jiawei-zhang.top/assets/pdf/PQAR_Poster.pdf)
