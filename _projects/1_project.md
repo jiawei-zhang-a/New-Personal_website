@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Imputation-Assisted Randomization Tests
-description: a project with a background image
+title: iArt
+description: Imputation-Assisted Randomization Tests
 importance: 1
 img: assets/img/2211700580917_.pic.jpg
 category: research
@@ -12,3 +12,5 @@ Design-based causal inference is one of the most widely used frameworks for test
 
 
 [Documentation](https://i-art.readthedocs.io/en/latest/)
+
+[Code](https://github.com/orgs/Imputation-Assisted-Randomization-Tests/repositories)
