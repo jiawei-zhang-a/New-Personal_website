@@ -1,7 +1,7 @@
 ---
 layout: page
-title: iArt
-description: Imputation-Assisted Randomization Tests
+title: Imputation-Assisted Randomization Tests(iArt)
+description: imputation and re-imputation for conducting finite-population-exact randomization
 importance: 1
 img: assets/img/2211700580917_.pic.jpg
 category: research
