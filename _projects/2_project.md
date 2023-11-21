@@ -4,7 +4,7 @@ title: Pandas
 description: powerful data tool
 img: https://i0.wp.com/lifewithdata.com/wp-content/uploads/2021/12/pandas-1.jpg?w=1080&ssl=1
 importance: 2
-category: work
+category: software
 ---
 
 

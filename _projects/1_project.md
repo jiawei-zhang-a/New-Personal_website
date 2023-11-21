@@ -3,8 +3,8 @@ layout: page
 title: iArt
 description: a project with a background image
 importance: 1
-img: assets/img/12.jpg
-category: work
+img: assets/img/2211700580917_.pic.jpg
+category: research
 related_publications: heng2023designbased
 ---
 
