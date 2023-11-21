@@ -13,6 +13,6 @@ I'm excited to share the launch of our latest Python and R package: **Python-iAr
 🔍 **Explore the Tutorial**  
 Dive into the world of iArt with our comprehensive tutorial. Get started today and discover how ython-iArt and iArt can help your research.
 
-<iframe src="https://i-art.readthedocs.io/en/latest/" width="700" height="388" style="border: none;">Your browser does not support PDFs. Download the PDF to view it: <a href="https://i-art.readthedocs.io/en/latest/">Download PDF</a>.</iframe>
+<iframe src="https://i-art.readthedocs.io/en/latest/" width="700" height="388" style="border:1px solid black;">Your browser does not support PDFs. Download the PDF to view it: <a href="https://i-art.readthedocs.io/en/latest/">Download PDF</a>.</iframe>
 
 ---
