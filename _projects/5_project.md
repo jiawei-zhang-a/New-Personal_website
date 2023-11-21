@@ -1,7 +1,7 @@
 ---
 layout: page
 title: scikit-learn
-description: a free software machine learning library
+description: Most famous python machine learning library
 img: https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg
 importance: 1
 category: software

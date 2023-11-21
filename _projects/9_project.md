@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PQAR
-description: project in PQAR
+title: A Matched Observational Study
+description: research project in PQAR
 importance: 1
 img: assets/img/2221700580956_.pic_hd.jpg
 category: research

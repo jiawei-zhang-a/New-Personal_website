@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ascii-art tool
-description: a project that convert image to ascii code
+title: Ascii-art Tool
+description: A project that convert image to ascii code
 img: https://raw.githubusercontent.com/dawsonbooth/ascii-art/master/logo.png
 redirect: https://unsplash.com
 importance: 7
