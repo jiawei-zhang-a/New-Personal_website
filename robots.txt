@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jiawei-zhang.top///sitemap.xml
+Sitemap: jiawei-zhang.top//sitemap.xml
