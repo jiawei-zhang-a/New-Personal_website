@@ -11,6 +11,6 @@ This project aims to conduct a causal inference  observational study on MBQIP (M
 **Accepted by 2023 American Causal Inference Conference**
 
 
-<iframe src="https://jiawei-zhang.top/assets/pdf/ACIC_2023_poster.pdf" width="700" height="388" style="border: none;">Your browser does not support PDFs. Download the PDF to view it: <a href="https://jiawei-zhang.top/assets/pdf/ACIC_2023_poster.pdf">Download PDF</a>.</iframe>
+<iframe src="https://jiawei-zhang.top/assets/pdf/ACIC-2023-poster.pdf" width="700" height="388" style="border: none;">Your browser does not support PDFs. Download the PDF to view it: <a href="https://jiawei-zhang.top/assets/pdf/ACIC-2023-poster.pdf">Download PDF</a>.</iframe>
 
 [Source Code](https://github.com/jiawei-zhang-a/SCI)
