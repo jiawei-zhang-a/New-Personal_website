@@ -10,8 +10,6 @@ related_posts: false
 🎉 **Announcement** 🎉  
 I'm excited to share the launch of our new function of calculating geodesics on Pendulum! Click [here](https://cloudnest.org/pendulum/geodesics/) for demo.
 For implementation details, please see [Documentation](https://github.com/Pendulum-Calculator/Pendulum-beta/blob/main/doc/DOCUMENTATION.md)
-![Pendulum](https://jiawei-zhang.top/assets/img/pendulum.jpg)
-
-
+<img src="https://jiawei-zhang.top/assets/img/pendulum.jpg" alt="Pendulum" width="400"/>
 
 ---
