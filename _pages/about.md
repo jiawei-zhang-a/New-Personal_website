@@ -18,5 +18,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I am currently pursuing Mathematics and Computer Science at New York University, where my academic interests lie at the crossroads of Causal Inference, Machine Learning, and Biostatistics. From theoretical exploration to tangible practical applications, it's an honor to be co-advised by Professors Yang Feng and Siyu Heng, whose guidance is invaluable to my growth. Additionally, I am an active contributor to open-source projects, enhancing essential data science tools like scikit-learn and Pandas.
+Welcome! I am currently pursuing Mathematics and Computer Science at New York University, where my academic interests lie at the intersection of Causal Inference and Machine Learning. From theoretical exploration to practical applications, it's an honor to be co-advised by Professors Yang Feng and Siyu Heng, whose guidance is invaluable to my growth. Additionally, I am an active contributor to open-source projects, enhancing essential data science tools like scikit-learn and Pandas.
 
